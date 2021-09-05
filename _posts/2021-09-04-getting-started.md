@@ -47,7 +47,7 @@ $ cd "$(bundle info --path jekyll-theme-chirpy)"
 > 나만의 Jekyll site 가 `jekyll new` 명령어를 통해 만들어졌다면, 나의 Jekyll site 의 root 디렉토리에 `index.markdown`, `about.markdown` 파일이 있을 텐데 이 2개의 파일을 없애거나 링크의 `index.html` 과 `_tabs/about.html` 파일로 각각 덮어씌우기를 권장한다.
 
 
-
+### Fork on GitHub
 
 
 
