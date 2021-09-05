@@ -29,6 +29,5 @@ favicon 파일들은 `assets/img/favicons/` 디렉토리 아래에 저장되어�
 
 아래의 표는 png 파일과 ico 파일은 제시한 온라인 도구를 사용하라는 것이고 `browserconfig.xml` 파일과 `site.webmanifest` 파일은 기존 파일을 사용하라는 것으로 받아들이면 될 것 같다.
 
-EOD
 
 
