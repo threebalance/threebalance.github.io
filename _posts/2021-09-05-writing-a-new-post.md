@@ -163,6 +163,7 @@ items:
 
 ### Liquid Codes
 **Liquid** snippet 을 띄우고 싶다면 `{% raw %}{%{% endraw %} raw {% raw %}%}{% endraw %}` 와 `{% raw %}{%{% endraw %} endraw {% raw %}%}{% endraw %}` 사이에 liquid code 를 삽입하면 된다.
+
 {% raw %}
 ```liquid
 {% if product.title contains 'Pack' %}
